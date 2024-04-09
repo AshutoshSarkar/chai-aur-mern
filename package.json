@@ -1,0 +1,22 @@
+{
+  "name": "chai-aur-mern",
+  "version": "1.0.0",
+  "description": "this module is only for learning backend development with mern stack",
+  "main": "index.js",
+  "scripts": {
+    "ashu-app": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "mongodb",
+    "react",
+    "expresw"
+  ],
+  "author": "Mr. Ashutosh Sarkar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
